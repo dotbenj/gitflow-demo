@@ -1,4 +1,4 @@
 
 # gitflow-demo
 
-This is a gitflow demonstration
+This is a gitflow demonstration repo
